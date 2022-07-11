@@ -1,4 +1,4 @@
-<h1> 👾 Olá! Meu nome é Fernando, mas pode me chamar de Lernando Lirio 👾 </h1>
+<h1> 👾 Olá! Meu nome é Fernando, crio jogos digitais e aplicações WEB 👾 </h1>
 
 <div>
     <img src="https://media.discordapp.net/attachments/707610004118700042/946228264794460160/1_OF0xEMkWBv-69zvmNs6RDQ.gif?width=1200&height=525">
