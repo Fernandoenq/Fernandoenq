@@ -8,7 +8,7 @@
   <a href="https://beacons.ai/Fernandoenq"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fernandoenq&show_icons=true&theme=github_dark&include_allcommits=true">
   /_\
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandoenq&layout=compact&langs_count=7&theme=black">
+  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandoenq&layout=compact&langs_count=7&theme=black">
 </div>
 
 
