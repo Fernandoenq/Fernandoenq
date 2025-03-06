@@ -36,7 +36,7 @@ Hello! Welcome! I'm Fernando
 
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=retr0lbb&theme=react-dark&&hide_border=false&area=true&hide_title=false&bg_color=212529&color=adb5bd&line=dee2e6&area_color=dee2e6&grid=false&radius=16&custom_title=Estatisticas%20para%20Nerds)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fernandoenq&theme=react-dark&&hide_border=false&area=true&hide_title=false&bg_color=212529&color=adb5bd&line=dee2e6&area_color=dee2e6&grid=false&radius=16&custom_title=Estatisticas%20para%20Nerds)
 
 
 
