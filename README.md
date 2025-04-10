@@ -2,7 +2,6 @@ Hello! Welcome! I'm Fernando
 
 
 - 🔭 I’m currently working on front-end, back-end, Games and Robotic
-- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/JuliaLopesCoimbra">
